@@ -5,7 +5,7 @@ import { scrollToThing } from '../modules/scroll_thing';
 
 const props = defineProps<{ block: any }>();
 onMounted(() => {
-  console.log(props.block)
+  // console.log(props.block)
 })
 </script>
 

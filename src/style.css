@@ -15,10 +15,10 @@
 
 body {
   --padding: 15px;
-  width: calc(100vw - (var(--padding) * 2));
-  max-width: calc(100vw - (var(--padding) * 2));
-  height: calc(100vh - (var(--padding) * 2));
-  max-height: calc(100vh - (var(--padding) * 2));
+  width: calc(var(--scr-width) - (var(--padding) * 2));
+  max-width: calc(var(--scr-width) - (var(--padding) * 2));
+  height: calc(var(--scr-height) - (var(--padding) * 2));
+  max-height: calc(var(--scr-height) - (var(--padding) * 2));
   padding: var(--padding);
   margin: 0px;
   overflow: hidden;

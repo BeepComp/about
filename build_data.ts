@@ -98,7 +98,7 @@ Array.prototype.asyncForEach = async function(func) {
 }
 
 let all_classes = new Set()
-function parseAnnotations(entry: any): {raw: string, html: string} {
+function parseAnnotations(entry: any): {raw: string, html: string, has_equation: boolean} {
   let raw = (
     entry.type =="text" ? entry.text.content :
     entry.type =="equation" ? entry.equation.expression :
@@ -132,23 +132,28 @@ function parseAnnotations(entry: any): {raw: string, html: string} {
     html = `<a ${entry.href.startsWith("/") ? `class="inline-jump"`: ''} href=${href}>${html}</a>`
   }
 
-  return {raw, html}
+  return {raw, html, has_equation: (entry.type =="equation")}
 }
 
 function parseRichText(rich_text: any, block: any = null): {raw: string, html: string, is_toggleable: boolean} {
-  let res = {raw: "", html: "", is_toggleable: false}
+  let res = {raw: "", html: "", is_toggleable: false, has_equation: false}
 
   res.is_toggleable = (block[block.type]?.is_toggleable != null ? block[block.type].is_toggleable : false)
   try {
-    res.raw = (rich_text.map((entry: any) => parseAnnotations(entry).raw).join(""))
-    res.html = (rich_text.map((entry: any) => parseAnnotations(entry).html).join(""))
+    let annotations = rich_text.map((entry: any) => {
+      let annotation = parseAnnotations(entry)
+      if (annotation.has_equation) { res.has_equation = true }
+      return annotation
+    })
+    res.raw = annotations.map((annotation: any) => annotation.raw).join("")
+    res.html = annotations.map((annotation: any) => annotation.html).join("")
   } catch (err) {
     if (block.type == "equation") {
       res.raw = block[block.type].expression
       res.html = block[block.type].expression
     } else {
       console.log("naw: ", block, err)
-      res = {raw: "", html: "", is_toggleable: res.is_toggleable}
+      res = {raw: "", html: "", is_toggleable: res.is_toggleable, has_equation: false}
     }
   }
   
@@ -172,6 +177,7 @@ async function main() {
     } else {
       let richTextParse: any = parseRichText(block[block.type].rich_text, block)
       let this_key = richTextParse.raw
+      if (richTextParse.has_equation) { block.type = block.type + "_equation" }
       // console.log("GETTING: ", this_key)
 
       let children: any[] = []

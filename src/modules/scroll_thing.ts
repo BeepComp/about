@@ -21,5 +21,5 @@ export function scrollToThing(block_id: string) {
   thing?.scrollIntoView({behavior: "smooth"});
   
   (thing as HTMLElement).style.setProperty("animation", "400ms ease-in-out 0s 5 alternate both running flash")
-  console.log((thing as HTMLElement).style)
+  // console.log((thing as HTMLElement).style)
 }

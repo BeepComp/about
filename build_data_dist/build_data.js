@@ -80,15 +80,22 @@ function parseAnnotations(entry) {
         }
         html = `<a ${entry.href.startsWith("/") ? `class="inline-jump"` : ''} href=${href}>${html}</a>`;
     }
-    return { raw, html };
+    return { raw, html, has_equation: (entry.type == "equation") };
 }
 function parseRichText(rich_text, block = null) {
     var _a;
-    let res = { raw: "", html: "", is_toggleable: false };
+    let res = { raw: "", html: "", is_toggleable: false, has_equation: false };
     res.is_toggleable = (((_a = block[block.type]) === null || _a === void 0 ? void 0 : _a.is_toggleable) != null ? block[block.type].is_toggleable : false);
     try {
-        res.raw = (rich_text.map((entry) => parseAnnotations(entry).raw).join(""));
-        res.html = (rich_text.map((entry) => parseAnnotations(entry).html).join(""));
+        let annotations = rich_text.map((entry) => {
+            let annotation = parseAnnotations(entry);
+            if (annotation.has_equation) {
+                res.has_equation = true;
+            }
+            return annotation;
+        });
+        res.raw = annotations.map((annotation) => annotation.raw).join("");
+        res.html = annotations.map((annotation) => annotation.html).join("");
     }
     catch (err) {
         if (block.type == "equation") {
@@ -97,7 +104,7 @@ function parseRichText(rich_text, block = null) {
         }
         else {
             console.log("naw: ", block, err);
-            res = { raw: "", html: "", is_toggleable: res.is_toggleable };
+            res = { raw: "", html: "", is_toggleable: res.is_toggleable, has_equation: false };
         }
     }
     return res;
@@ -119,6 +126,9 @@ function main() {
                 else {
                     let richTextParse = parseRichText(block[block.type].rich_text, block);
                     let this_key = richTextParse.raw;
+                    if (richTextParse.has_equation) {
+                        block.type = block.type + "_equation";
+                    }
                     // console.log("GETTING: ", this_key)
                     let children = [];
                     if (block.has_children) {

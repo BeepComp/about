@@ -11,16 +11,15 @@ onMounted(() => {
 </script>
 
 <template>
-<br>
-<vue-latex v-if="isMobile" class="equation" :expression="block.raw" :mobile="isMobile"/>
-<vue-latex v-if="!isMobile" class="equation" :expression="block.raw" display-mode :mobile="isMobile"/>
+<vue-latex class="equation" :expression="block.raw" :mobile="isMobile"/>
 </template>
 
 <style scoped>
-/* .equation[modile=true] {
-  font-size: 8px !important
-} */
 .equation {
-  font-size: 24px !important;
+  opacity: 0.6;
+  font-size: 20px !important;
+}
+.equation[modile=true] {
+  font-size: 16px !important;
 }
 </style>

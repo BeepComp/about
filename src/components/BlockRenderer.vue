@@ -1,11 +1,15 @@
 <script setup lang="ts">
-import { onMounted } from 'vue';
+import { onMounted, provide, ref } from 'vue';
 import { scrollToThing } from '../modules/scroll_thing';
 
 const props = defineProps<{ block: any }>();
 onMounted(() => {
-  console.log(props.block)
+  // console.log(props.block)
 })
+provide("block", props.block)
+
+const hasSlot = ref(true)
+provide("hasSlot", hasSlot)
 
 function linkClick(e: Event) {
   e.preventDefault()
@@ -17,7 +21,7 @@ function linkClick(e: Event) {
 <template>
 <component :is="block.type" :id="block.id" :readable_id="block.readable_id" class="block">
   <a v-if="block.drop_down" :href="`/?scrollTo=${block.readable_id}`" @click="linkClick" class="scroll-to-link">🔗 </a>
-  <span v-html="block.html"></span>
+  <span v-html="block.html" v-if="hasSlot"></span>
   <div class="sub-content">
     <BlockRenderer v-for="sub_block in block.children" :block="sub_block"></BlockRenderer>
   </div>

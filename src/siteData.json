@@ -1,5 +1,1565 @@
 [
   {
+    "raw": "Website",
+    "html": "<span class=\"color-default\">Website</span>",
+    "is_toggleable": true,
+    "has_equation": false,
+    "readable_id": "website",
+    "id": "20c3ac57-9dc4-804e-9838-ca7180879851",
+    "drop_down": true,
+    "children": [
+      {
+        "raw": "Submitting (NEW)",
+        "html": "<span class=\"color-default\">Submitting </span><span class=\"color-purple\">(NEW)</span>",
+        "is_toggleable": true,
+        "has_equation": false,
+        "readable_id": "submitting-(new)",
+        "id": "20c3ac57-9dc4-8071-b53c-d0b6fe5bbcd9",
+        "drop_down": true,
+        "children": [
+          {
+            "raw": "Valid BeepBox Mods / ‘Editions’ (NEW)",
+            "html": "<span class=\"color-default\">Valid BeepBox Mods / ‘Editions’ </span><span class=\"color-purple\">(NEW)</span>",
+            "is_toggleable": true,
+            "has_equation": false,
+            "readable_id": "valid-beepbox-mods-/-‘editions’-(new)",
+            "id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4",
+            "drop_down": true,
+            "children": [
+              {
+                "raw": "Only certain editions of BeepBox are allowed to be submitted thru unshortened URLs for security concerns of embedding/hyperlinking to user submitted beeps.",
+                "html": "<span class=\"color-default\">Only certain editions of BeepBox are allowed to be submitted thru unshortened URLs for security concerns of embedding/hyperlinking to user submitted beeps.</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-8020-9be9-c5dfde7f548f",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-8020-9be9-c5dfde7f548f",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:47:00.000Z",
+                  "last_edited_time": "2025-06-30T05:07:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Only certain editions of BeepBox are allowed to be submitted thru unshortened URLs for security concerns of embedding/hyperlinking to user submitted beeps.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Only certain editions of BeepBox are allowed to be submitted thru unshortened URLs for security concerns of embedding/hyperlinking to user submitted beeps.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "89417071-5eed-4020-a3ca-4b12de378ecd"
+                }
+              },
+              {
+                "raw": "Any URL who’s domain matches any of the following will be valid for submission- meaning that older/alternative versions hosted on that domain will also be valid!",
+                "html": "<span class=\"color-default\">Any URL who’s domain matches any of the following will be valid for submission- meaning that older/alternative versions hosted on that domain will also be valid!</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80f2-885d-eaa2b727d248",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80f2-885d-eaa2b727d248",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:51:00.000Z",
+                  "last_edited_time": "2025-06-30T04:53:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Any URL who’s domain matches any of the following will be valid for submission- meaning that older/alternative versions hosted on that domain will also be valid!",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Any URL who’s domain matches any of the following will be valid for submission- meaning that older/alternative versions hosted on that domain will also be valid!",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "51092018-0f14-4d2e-95c3-4be9c7669b55"
+                }
+              },
+              {
+                "raw": "List of Supported Editions:",
+                "html": "<span class=\"bold color-default\">List of Supported Editions:</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80fb-a4b6-d8ffd98c3aa8",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80fb-a4b6-d8ffd98c3aa8",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:47:00.000Z",
+                  "last_edited_time": "2025-06-30T04:51:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "List of Supported Editions:",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "List of Supported Editions:",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "44ddb93a-5af9-436e-b3ad-2b610c135a6a"
+                }
+              },
+              {
+                "raw": "BeepBox (https://www.beepbox.co/)",
+                "html": "<span class=\"color-default\">BeepBox (</span><a target=\"_blank\" href=https://www.beepbox.co/><span class=\"color-default\">https://www.beepbox.co/</span></a><span class=\"color-default\">)</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80ea-9822-fe12756f44c6",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80ea-9822-fe12756f44c6",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:48:00.000Z",
+                  "last_edited_time": "2025-06-30T04:49:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "BeepBox (",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "BeepBox (",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "https://www.beepbox.co/",
+                          "link": {
+                            "url": "https://www.beepbox.co/"
+                          }
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "https://www.beepbox.co/",
+                        "href": "https://www.beepbox.co/"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": ")",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": ")",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "c460d954-529a-460f-b6fa-f441191e02b7"
+                }
+              },
+              {
+                "raw": "JummBox (https://jummb.us/)",
+                "html": "<span class=\"color-default\">JummBox (</span><a target=\"_blank\" href=https://jummb.us/><span class=\"color-default\">https://jummb.us/</span></a><span class=\"color-default\">)</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-805a-9b77-e8680acf887e",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-805a-9b77-e8680acf887e",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:48:00.000Z",
+                  "last_edited_time": "2025-06-30T04:50:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "JummBox (",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "JummBox (",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "https://jummb.us/",
+                          "link": {
+                            "url": "https://jummb.us/"
+                          }
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "https://jummb.us/",
+                        "href": "https://jummb.us/"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": ")",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": ")",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "0ea4f4d7-d2c6-4884-91f3-099510028c8d"
+                }
+              },
+              {
+                "raw": "UltraBox (https://ultraabox.github.io/)",
+                "html": "<span class=\"color-default\">UltraBox (</span><a target=\"_blank\" href=https://ultraabox.github.io/><span class=\"color-default\">https://ultraabox.github.io/</span></a><span class=\"color-default\">)</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80be-983a-f6f6272a20c9",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80be-983a-f6f6272a20c9",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:49:00.000Z",
+                  "last_edited_time": "2025-06-30T04:50:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "UltraBox (",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "UltraBox (",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "https://ultraabox.github.io/",
+                          "link": {
+                            "url": "https://ultraabox.github.io/"
+                          }
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "https://ultraabox.github.io/",
+                        "href": "https://ultraabox.github.io/"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": ")",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": ")",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "8365a535-b0b1-447b-8e2f-4c968d4a11e7"
+                }
+              },
+              {
+                "raw": "AbyssBox (https://choptop84.github.io/abyssbox-app/)",
+                "html": "<span class=\"color-default\">AbyssBox (</span><a target=\"_blank\" href=https://choptop84.github.io/abyssbox-app/><span class=\"color-default\">https://choptop84.github.io/abyssbox-app/</span></a><span class=\"color-default\">)</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-8090-bb91-e812545ab879",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-8090-bb91-e812545ab879",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:49:00.000Z",
+                  "last_edited_time": "2025-06-30T04:50:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "AbyssBox (",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "AbyssBox (",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "https://choptop84.github.io/abyssbox-app/",
+                          "link": {
+                            "url": "https://choptop84.github.io/abyssbox-app/"
+                          }
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "https://choptop84.github.io/abyssbox-app/",
+                        "href": "https://choptop84.github.io/abyssbox-app/"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": ")",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": ")",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "d3c7a310-41d5-468b-ba6f-38b053720dd2"
+                }
+              },
+              {
+                "raw": "Slarmoo’s Box (https://slarmoo.github.io/slarmoosbox/website/)",
+                "html": "<span class=\"color-default\">Slarmoo’s Box (</span><a target=\"_blank\" href=https://slarmoo.github.io/slarmoosbox/website/><span class=\"color-default\">https://slarmoo.github.io/slarmoosbox/website/</span></a><span class=\"color-default\">)</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-8067-aa3d-dc3c11eedb7e",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-8067-aa3d-dc3c11eedb7e",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:49:00.000Z",
+                  "last_edited_time": "2025-06-30T04:51:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Slarmoo’s Box (",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Slarmoo’s Box (",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "https://slarmoo.github.io/slarmoosbox/website/",
+                          "link": {
+                            "url": "https://slarmoo.github.io/slarmoosbox/website/"
+                          }
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "https://slarmoo.github.io/slarmoosbox/website/",
+                        "href": "https://slarmoo.github.io/slarmoosbox/website/"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": ")",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": ")",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "147d3839-e510-4377-9a36-870ff003287d"
+                }
+              },
+              {
+                "raw": "GoldBox (https://aurysystem.github.io/goldbox/)",
+                "html": "<span class=\"color-default\">GoldBox (</span><a target=\"_blank\" href=https://aurysystem.github.io/goldbox/><span class=\"color-default\">https://aurysystem.github.io/goldbox/</span></a><span class=\"color-default\">)</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-8011-be6b-c91c279b4aef",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-8011-be6b-c91c279b4aef",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:49:00.000Z",
+                  "last_edited_time": "2025-06-30T04:50:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "GoldBox (",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "GoldBox (",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "https://aurysystem.github.io/goldbox/",
+                          "link": {
+                            "url": "https://aurysystem.github.io/goldbox/"
+                          }
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "https://aurysystem.github.io/goldbox/",
+                        "href": "https://aurysystem.github.io/goldbox/"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": ")",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": ")",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "f177139d-1d44-45c1-a7bf-087744c9f172"
+                }
+              },
+              {
+                "raw": "ModBox (https://moddedbeepbox.github.io/)",
+                "html": "<span class=\"color-default\">ModBox (</span><a target=\"_blank\" href=https://moddedbeepbox.github.io/><span class=\"color-default\">https://moddedbeepbox.github.io/</span></a><span class=\"color-default\">)</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-808a-a7e0-fbe790d8b7f1",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-808a-a7e0-fbe790d8b7f1",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4"
+                  },
+                  "created_time": "2025-06-30T04:49:00.000Z",
+                  "last_edited_time": "2025-06-30T04:50:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "ModBox (",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "ModBox (",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "https://moddedbeepbox.github.io/",
+                          "link": {
+                            "url": "https://moddedbeepbox.github.io/"
+                          }
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "https://moddedbeepbox.github.io/",
+                        "href": "https://moddedbeepbox.github.io/"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": ")",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": ")",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "a653d633-ee93-47a5-b3c2-e48233e10924"
+                }
+              }
+            ],
+            "type": "heading_3",
+            "_block": {
+              "object": "block",
+              "id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "20c3ac57-9dc4-8071-b53c-d0b6fe5bbcd9"
+              },
+              "created_time": "2025-06-08T17:41:00.000Z",
+              "last_edited_time": "2025-06-30T05:06:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+              },
+              "has_children": true,
+              "archived": false,
+              "in_trash": false,
+              "type": "heading_3",
+              "heading_3": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Valid BeepBox Mods / ‘Editions’ ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Valid BeepBox Mods / ‘Editions’ ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(NEW)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "purple"
+                    },
+                    "plain_text": "(NEW)",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": true,
+                "color": "default"
+              },
+              "request_id": "6c02b7f8-ce44-42e8-a572-5d9343d12e5c"
+            }
+          },
+          {
+            "raw": "Collabs & Battles (NEW)",
+            "html": "<span class=\"color-default\">Collabs & Battles </span><span class=\"color-purple\">(NEW)</span>",
+            "is_toggleable": true,
+            "has_equation": false,
+            "readable_id": "collabs-&-battles-(new)",
+            "id": "2223ac57-9dc4-807b-9f27-c377a4f85e01",
+            "drop_down": true,
+            "children": [
+              {
+                "raw": "Collabs and Battles are handled thru a Request System! ",
+                "html": "<a class=\"inline-jump\" href=/?scrollTo=2093ac579dc480dd91cbf9b08492c53b><span class=\"bold color-default\">Collabs</span></a><span class=\"color-default\"> and </span><a class=\"inline-jump\" href=/?scrollTo=2093ac579dc4806cb47ac14803159840><span class=\"bold color-default\">Battles</span></a><span class=\"color-default\"> are handled thru a </span><span class=\"bold color-default\">Request System</span><span class=\"color-default\">! </span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80b0-af4a-cec5d227ac80",
+                "drop_down": false,
+                "children": [],
+                "type": "paragraph",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80b0-af4a-cec5d227ac80",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2223ac57-9dc4-807b-9f27-c377a4f85e01"
+                  },
+                  "created_time": "2025-06-30T04:57:00.000Z",
+                  "last_edited_time": "2025-06-30T05:16:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "paragraph",
+                  "paragraph": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Collabs",
+                          "link": {
+                            "url": "/2093ac579dc48018b4e3ff8426750f73#2093ac579dc480dd91cbf9b08492c53b"
+                          }
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Collabs",
+                        "href": "/2093ac579dc48018b4e3ff8426750f73#2093ac579dc480dd91cbf9b08492c53b"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": " and ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": " and ",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Battles",
+                          "link": {
+                            "url": "/2093ac579dc48018b4e3ff8426750f73#2093ac579dc4806cb47ac14803159840"
+                          }
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Battles",
+                        "href": "/2093ac579dc48018b4e3ff8426750f73#2093ac579dc4806cb47ac14803159840"
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": " are handled thru a ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": " are handled thru a ",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Request System",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Request System",
+                        "href": null
+                      },
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "! ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "! ",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "52e81067-14f1-486f-9f48-41d24808a9f3"
+                }
+              },
+              {
+                "raw": "Requests are sent once a user first submits their beep when they mark the toggle button as either ‘Collab’ or ‘Battle’ and then select a participant from the drop down.",
+                "html": "<span class=\"color-default\">Requests are sent once a user first submits their beep when they mark the toggle button as either ‘Collab’ or ‘Battle’ and then select a participant from the drop down.</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80ac-9f8a-d59f26c084b7",
+                "drop_down": false,
+                "children": [],
+                "type": "bulleted_list_item",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80ac-9f8a-d59f26c084b7",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2223ac57-9dc4-807b-9f27-c377a4f85e01"
+                  },
+                  "created_time": "2025-06-30T04:58:00.000Z",
+                  "last_edited_time": "2025-06-30T05:04:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Requests are sent once a user first submits their beep when they mark the toggle button as either ‘Collab’ or ‘Battle’ and then select a participant from the drop down.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Requests are sent once a user first submits their beep when they mark the toggle button as either ‘Collab’ or ‘Battle’ and then select a participant from the drop down.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "3aa226b3-e501-4b06-95e0-6260b98dc643"
+                }
+              },
+              {
+                "raw": "The usual means of accept a request is from the receiver of the request clicking accept on the notification present at the top of that round’s page!",
+                "html": "<span class=\"color-default\">The usual means of accept a request is from the receiver of the request clicking accept on the notification present at the top of that round’s page!</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80df-a7b1-dfb5fcd5cf8f",
+                "drop_down": false,
+                "children": [],
+                "type": "bulleted_list_item",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80df-a7b1-dfb5fcd5cf8f",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2223ac57-9dc4-807b-9f27-c377a4f85e01"
+                  },
+                  "created_time": "2025-06-30T04:58:00.000Z",
+                  "last_edited_time": "2025-06-30T05:04:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "The usual means of accept a request is from the receiver of the request clicking accept on the notification present at the top of that round’s page!",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "The usual means of accept a request is from the receiver of the request clicking accept on the notification present at the top of that round’s page!",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "c0979d6c-064b-4986-a340-10f6b4b54404"
+                }
+              },
+              {
+                "raw": "If two people submit a beep and mark each other as a challenger (battle opponents), then the request will automatically be accepting and the battle will commence",
+                "html": "<span class=\"color-default\">If two people submit a beep and mark each other as a challenger (battle opponents), then the request will automatically be accepting and the battle will commence</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80dc-9174-e5c25675a265",
+                "drop_down": false,
+                "children": [],
+                "type": "bulleted_list_item",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80dc-9174-e5c25675a265",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2223ac57-9dc4-807b-9f27-c377a4f85e01"
+                  },
+                  "created_time": "2025-06-30T04:59:00.000Z",
+                  "last_edited_time": "2025-06-30T05:04:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "If two people submit a beep and mark each other as a challenger (battle opponents), then the request will automatically be accepting and the battle will commence",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "If two people submit a beep and mark each other as a challenger (battle opponents), then the request will automatically be accepting and the battle will commence",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "cb2545c6-b078-4de6-8f10-2570a7a2e54b"
+                }
+              },
+              {
+                "raw": "Accepting a collab request is only done thru the notification",
+                "html": "<span class=\"color-default\">Accepting a collab request is only done thru the notification</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-801c-9285-e12a693a72dc",
+                "drop_down": false,
+                "children": [
+                  {
+                    "raw": "Accepting a collab request will remove your current submission for that round in place of the submission of the sender of the collab request",
+                    "html": "<span class=\"color-default\">Accepting a collab request will remove your current submission for that round in place of the submission of the sender of the collab request</span>",
+                    "is_toggleable": false,
+                    "has_equation": false,
+                    "id": "2223ac57-9dc4-80dc-ab52-dfe73dd00f70",
+                    "drop_down": false,
+                    "children": [],
+                    "type": "bulleted_list_item",
+                    "_block": {
+                      "object": "block",
+                      "id": "2223ac57-9dc4-80dc-ab52-dfe73dd00f70",
+                      "parent": {
+                        "type": "block_id",
+                        "block_id": "2223ac57-9dc4-801c-9285-e12a693a72dc"
+                      },
+                      "created_time": "2025-06-30T05:04:00.000Z",
+                      "last_edited_time": "2025-06-30T05:05:00.000Z",
+                      "created_by": {
+                        "object": "user",
+                        "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                      },
+                      "last_edited_by": {
+                        "object": "user",
+                        "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                      },
+                      "has_children": false,
+                      "archived": false,
+                      "in_trash": false,
+                      "type": "bulleted_list_item",
+                      "bulleted_list_item": {
+                        "rich_text": [
+                          {
+                            "type": "text",
+                            "text": {
+                              "content": "Accepting a collab request will remove your current submission for that round in place of the submission of the sender of the collab request",
+                              "link": null
+                            },
+                            "annotations": {
+                              "bold": false,
+                              "italic": false,
+                              "strikethrough": false,
+                              "underline": false,
+                              "code": false,
+                              "color": "default"
+                            },
+                            "plain_text": "Accepting a collab request will remove your current submission for that round in place of the submission of the sender of the collab request",
+                            "href": null
+                          }
+                        ],
+                        "color": "default"
+                      },
+                      "request_id": "3e1b97be-8b3a-40db-8c05-6aaae1f7f7a7"
+                    }
+                  }
+                ],
+                "type": "bulleted_list_item",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-801c-9285-e12a693a72dc",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2223ac57-9dc4-807b-9f27-c377a4f85e01"
+                  },
+                  "created_time": "2025-06-30T05:04:00.000Z",
+                  "last_edited_time": "2025-06-30T05:04:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": true,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Accepting a collab request is only done thru the notification",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Accepting a collab request is only done thru the notification",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "f30fe5af-7b0b-4a0b-855b-4307fbec58b8"
+                }
+              },
+              {
+                "raw": "And declining a request just removes the request from the receivers list and the commitment does not proceed.",
+                "html": "<span class=\"color-default\">And declining a request just removes the request from the receivers list and the commitment does not proceed.</span>",
+                "is_toggleable": false,
+                "has_equation": false,
+                "id": "2223ac57-9dc4-80e5-9f14-c7accc351c09",
+                "drop_down": false,
+                "children": [],
+                "type": "bulleted_list_item",
+                "_block": {
+                  "object": "block",
+                  "id": "2223ac57-9dc4-80e5-9f14-c7accc351c09",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "2223ac57-9dc4-807b-9f27-c377a4f85e01"
+                  },
+                  "created_time": "2025-06-30T04:59:00.000Z",
+                  "last_edited_time": "2025-06-30T05:04:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "And declining a request just removes the request from the receivers list and the commitment does not proceed.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "And declining a request just removes the request from the receivers list and the commitment does not proceed.",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "request_id": "df7e8daa-2b55-4bb2-bd84-f7fd6d296f3f"
+                }
+              }
+            ],
+            "type": "heading_3",
+            "_block": {
+              "object": "block",
+              "id": "2223ac57-9dc4-807b-9f27-c377a4f85e01",
+              "parent": {
+                "type": "block_id",
+                "block_id": "20c3ac57-9dc4-8071-b53c-d0b6fe5bbcd9"
+              },
+              "created_time": "2025-06-30T04:04:00.000Z",
+              "last_edited_time": "2025-06-30T05:06:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+              },
+              "has_children": true,
+              "archived": false,
+              "in_trash": false,
+              "type": "heading_3",
+              "heading_3": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Collabs & Battles ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Collabs & Battles ",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(NEW)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "purple"
+                    },
+                    "plain_text": "(NEW)",
+                    "href": null
+                  }
+                ],
+                "is_toggleable": true,
+                "color": "default"
+              },
+              "request_id": "3bf5a775-a57a-446b-8f84-d43f503e3c16"
+            }
+          }
+        ],
+        "type": "heading_2",
+        "_block": {
+          "object": "block",
+          "id": "20c3ac57-9dc4-8071-b53c-d0b6fe5bbcd9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "20c3ac57-9dc4-804e-9838-ca7180879851"
+          },
+          "created_time": "2025-06-08T19:26:00.000Z",
+          "last_edited_time": "2025-06-30T05:06:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "heading_2",
+          "heading_2": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Submitting ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Submitting ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "(NEW)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "purple"
+                },
+                "plain_text": "(NEW)",
+                "href": null
+              }
+            ],
+            "is_toggleable": true,
+            "color": "default"
+          },
+          "request_id": "2197b5f4-4e18-41be-9f1d-945722b243b4"
+        }
+      }
+    ],
+    "type": "heading_1",
+    "_block": {
+      "object": "block",
+      "id": "20c3ac57-9dc4-804e-9838-ca7180879851",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2093ac57-9dc4-8018-b4e3-ff8426750f73"
+      },
+      "created_time": "2025-06-08T17:40:00.000Z",
+      "last_edited_time": "2025-06-30T05:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Website",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Website",
+            "href": null
+          }
+        ],
+        "is_toggleable": true,
+        "color": "default"
+      },
+      "request_id": "e785cef4-eaa9-49ba-9a79-b5110141396c"
+    }
+  },
+  {
     "raw": "7th Tournament",
     "html": "<span class=\"color-default\">7th Tournament</span>",
     "is_toggleable": true,
@@ -353,7 +1913,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "ae15e848-8366-483b-a1ba-f9b792d92bb4"
+              "request_id": "43429d72-99be-4d41-9898-d259a9710dd9"
             }
           },
           {
@@ -550,7 +2110,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "de43357f-981f-4c74-90b6-a5f05246e75e"
+              "request_id": "2d0785b8-ebad-4b76-8b29-8bc78a9f44b5"
             }
           },
           {
@@ -622,7 +2182,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "eba211cc-bc03-4cc9-8241-4e134fd0ad0c"
+              "request_id": "d383b723-17a5-4dcd-b084-ec4780bb9422"
             }
           }
         ],
@@ -671,7 +2231,7 @@
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "27f71b3d-a141-4a64-bc0d-1ed9d8d24317"
+          "request_id": "edcb269c-0420-4eaf-8483-6a9ffb306caa"
         }
       },
       {
@@ -854,7 +2414,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "24c38216-7cf3-4b47-b35f-31ebacfad874"
+              "request_id": "ef9be1e9-1b37-4a76-b523-e1440efdf94f"
             }
           },
           {
@@ -909,7 +2469,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "8fa94da8-4f15-451a-a11e-dcb9dbd16441"
+              "request_id": "3a676db9-a740-406f-8659-dc53c8202366"
             }
           },
           {
@@ -990,7 +2550,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "931fc5d5-de28-4703-9743-3324c0313c0f"
+                  "request_id": "e4a75f1b-4300-4e8a-b663-2fd6681e78c8"
                 }
               }
             ],
@@ -1039,7 +2599,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "aaf507b0-e140-41d1-8a71-3a1dc358af99"
+              "request_id": "9cc01d0c-995b-4884-ab89-ba95b8fbcfb4"
             }
           },
           {
@@ -1120,7 +2680,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "dd735147-d6bc-46a4-b56d-32d65f0d3780"
+                  "request_id": "e3b2602d-4374-45b4-92e5-57be74a78950"
                 }
               },
               {
@@ -1177,7 +2737,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "8361b72f-d9c5-4181-b999-1ce933f46c45"
+                  "request_id": "f02f6d37-781a-494f-a7e2-ad7ec7a3dfe3"
                 }
               }
             ],
@@ -1226,7 +2786,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "1f66bfa7-0677-4436-b429-7fada3053079"
+              "request_id": "fe01feba-d6bc-4dbd-bd69-fcec954273f3"
             }
           },
           {
@@ -1290,7 +2850,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "f9c5a977-e701-4c98-b3cd-3cf887ed96f8"
+                  "request_id": "6df5c158-93be-473f-8e62-7e303aed06f0"
                 }
               }
             ],
@@ -1339,7 +2899,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "1fb8bff6-2445-4f4f-a5a1-37fac5bc2da2"
+              "request_id": "19f4c6a3-4a17-486a-a650-f60951af8ac7"
             }
           }
         ],
@@ -1388,7 +2948,7 @@
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "c5cef2fc-6bd6-4958-9c6b-081f6620aa69"
+          "request_id": "3db4aa2b-de1b-45a4-8efc-25999a6cfde2"
         }
       },
       {
@@ -1452,7 +3012,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "cbe455b7-10d9-453e-8dc2-3271e20046bb"
+              "request_id": "979284d7-80f4-41dc-a479-80e30b42b0b4"
             }
           },
           {
@@ -1596,7 +3156,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "0c636efe-99ad-4757-bafe-8b7cb860ed7d"
+              "request_id": "7babd842-2974-457f-9fad-5060aa0c98e4"
             }
           },
           {
@@ -1660,7 +3220,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "889d0177-47e7-44e7-a8a7-b4008b871310"
+                  "request_id": "bde77dd4-ced6-404c-9d57-4f2fa6a2e528"
                 }
               }
             ],
@@ -1726,7 +3286,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "c0752d54-d07c-439e-bfc3-d5b81bc5b357"
+              "request_id": "5993ba9f-2394-4b20-97ff-14781e17021c"
             }
           },
           {
@@ -1790,7 +3350,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "9a611b53-297b-451b-96c5-fadb5d511b13"
+                  "request_id": "9add0b9c-5b0d-4e5d-bbeb-a0b9eaece3e0"
                 }
               },
               {
@@ -1845,7 +3405,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "343c7710-5582-484c-bef4-b70639fa819b"
+                  "request_id": "2220075c-db77-420d-be3d-6392d0668b4b"
                 }
               },
               {
@@ -1934,7 +3494,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "7ea67e8a-00f9-4afa-a897-74604ccc4395"
+                  "request_id": "96311cd2-93f3-4bf4-a5e2-6839badaacf6"
                 }
               },
               {
@@ -2006,7 +3566,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "05db6a72-35de-41ca-896d-5db85dee0bcf"
+                  "request_id": "81874814-c6e7-4fd6-a718-b31a1bde6dfc"
                 }
               },
               {
@@ -2061,7 +3621,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "64455b0d-31eb-4361-9de9-bad540128fce"
+                  "request_id": "7cbb4131-5eb5-4bc2-b387-1754ce96970b"
                 }
               }
             ],
@@ -2127,7 +3687,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "3c2cc356-9a51-4b68-9d50-68ccde2e7b65"
+              "request_id": "21a38f4b-6f03-44c9-8115-9076d0908fd3"
             }
           }
         ],
@@ -2176,7 +3736,7 @@
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "dc9d0c31-2d5e-416c-a4da-379a2c6aefa3"
+          "request_id": "3ed67122-47b8-4f40-a45e-b2f0cfb01c5d"
         }
       },
       {
@@ -2240,7 +3800,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "35841ecf-369b-47cd-85d7-8169f9c3f13d"
+              "request_id": "d57ac82b-54ed-4956-9928-68c189a0a090"
             }
           },
           {
@@ -2338,7 +3898,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "cdc7159d-c1f6-4c9b-9b4d-de5dd68d9ae1"
+                  "request_id": "39e4ca18-b091-4f86-8d4e-a44b7f9626b2"
                 }
               },
               {
@@ -2427,7 +3987,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "251af3d5-7d57-4b63-a191-4fecfe99ddf4"
+                  "request_id": "f0690833-1d87-427f-8777-a067fe4b682f"
                 }
               }
             ],
@@ -2476,7 +4036,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "87dbb703-8c4b-40db-bae5-957144c6d013"
+              "request_id": "626b7c71-fcd4-4c1b-9ce5-e634814c4bb4"
             }
           },
           {
@@ -2557,7 +4117,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "404c3506-5654-42dd-8ca7-b94cc79a9970"
+                  "request_id": "be75277b-1e51-417a-a1f1-24e3b5fd4357"
                 }
               },
               {
@@ -2663,7 +4223,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "7d7a7871-be79-400c-a6e9-d874a62368bd"
+                  "request_id": "ad457d86-8221-48ec-bfd5-3620a03734f0"
                 }
               },
               {
@@ -2896,7 +4456,7 @@
                         ],
                         "color": "default"
                       },
-                      "request_id": "20528266-488e-47b8-829f-7e4ce611bb72"
+                      "request_id": "073eeff3-a4cf-46c1-9310-97d0349d80ab"
                     }
                   },
                   {
@@ -2951,7 +4511,7 @@
                         ],
                         "color": "default"
                       },
-                      "request_id": "b9f5dbb6-58d3-4671-8f7d-61413bebd5a9"
+                      "request_id": "f37002ce-6d97-4109-a866-74b189e03854"
                     }
                   }
                 ],
@@ -3135,7 +4695,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "1c97e4f2-490f-4170-9ea6-4b6fc977be86"
+                  "request_id": "2659f7b0-fd04-4e76-8f37-c9325a9912bf"
                 }
               },
               {
@@ -3198,7 +4758,7 @@
                         ],
                         "color": "default"
                       },
-                      "request_id": "106f9bb1-8bdb-4c7d-8630-039f87734ed1"
+                      "request_id": "ea355bcb-6760-430f-9a1c-cd7dfbc34c7e"
                     }
                   }
                 ],
@@ -3246,7 +4806,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "e4798663-7b5c-437e-8979-36b509fbf279"
+                  "request_id": "e9d494da-c1da-4cd1-a2ac-6dbe3c1ba32a"
                 }
               }
             ],
@@ -3295,7 +4855,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "9c5d3058-1e94-411a-b00f-f0cd9d0fe450"
+              "request_id": "d2a17cc9-82d9-4fd2-8f5d-669818e17a0f"
             }
           },
           {
@@ -3376,7 +4936,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "9a16e319-8266-45f7-bfb9-13eca069e91c"
+                  "request_id": "fbc6d588-4781-4686-ac01-345f6810a5eb"
                 }
               },
               {
@@ -3550,7 +5110,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "e477890b-d40f-4cef-8ed2-506e2c53bc33"
+                  "request_id": "b6755289-f176-4255-8277-226036a62b1d"
                 }
               },
               {
@@ -3604,7 +5164,7 @@
                     ],
                     "color": "gray"
                   },
-                  "request_id": "1da27eeb-4b2e-41f2-a7ab-cf37b75e6ed1"
+                  "request_id": "bcb92b13-3897-4c6d-b8aa-ae7cf0a4a06b"
                 }
               },
               {
@@ -3640,7 +5200,7 @@
                   "equation": {
                     "expression": "V_{ote} = (avg(C_{atA},\\ C_{atB},\\ C_{atC}) * 70\\%) + (C_{atD} * 5\\%) +(P_{rompt} * 25\\%)"
                   },
-                  "request_id": "68359f30-aa85-4f60-807e-d02f22f50bc5"
+                  "request_id": "93e8cc42-6578-4109-8a9d-a35106b6edcd"
                 }
               },
               {
@@ -3712,7 +5272,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "8649745d-1b9a-4c91-9ecf-848f15bda123"
+                  "request_id": "ff85291c-5682-44fd-bca7-e1a8b3335369"
                 }
               },
               {
@@ -3766,7 +5326,7 @@
                     ],
                     "color": "gray"
                   },
-                  "request_id": "99414fd4-7381-4044-aa51-bd23eadf783a"
+                  "request_id": "ab8a9950-99db-4a4e-9049-143e43d80cc2"
                 }
               },
               {
@@ -3802,7 +5362,7 @@
                   "equation": {
                     "expression": "S_{core} = round(((avg(H_{CV}) *80\\%) + (avg(H_{AV}) *20\\%)) * 1000)"
                   },
-                  "request_id": "0cedf96a-49ac-4976-b7cb-d07d1a3c221c"
+                  "request_id": "944a2e95-1106-492a-8f23-5839f5dfb29a"
                 }
               }
             ],
@@ -3851,7 +5411,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "9b26be85-275f-4158-ab67-8c3f14f5059e"
+              "request_id": "c6072382-f36b-4078-8654-8af011c4d97f"
             }
           }
         ],
@@ -3900,15 +5460,15 @@
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "c15c5403-eeb7-4924-9a33-fbe0b8dc0ffe"
+          "request_id": "9a27d0c6-5860-4b0b-9185-0589e960fd95"
         }
       },
       {
-        "raw": "Prompt Modifiers (NEW)",
-        "html": "<span class=\"color-default\">Prompt Modifiers </span><span class=\"color-purple\">(NEW)</span>",
+        "raw": "Prompt Modifiers",
+        "html": "<span class=\"color-default\">Prompt Modifiers</span>",
         "is_toggleable": true,
         "has_equation": false,
-        "readable_id": "prompt-modifiers-(new)",
+        "readable_id": "prompt-modifiers",
         "id": "2093ac57-9dc4-80f5-b2a6-e536bcbe774c",
         "drop_down": true,
         "children": [
@@ -4083,7 +5643,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "b3ce2eea-f3db-42cb-ab04-472465f74371"
+              "request_id": "298d43f6-90b1-4d7d-b59f-4d90e884448a"
             }
           },
           {
@@ -4138,7 +5698,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "ad6c6ea4-ea6f-4e48-a347-06e11c29f0cb"
+              "request_id": "847a329d-8d9d-41a1-8d40-ad4c2a69c9e3"
             }
           },
           {
@@ -4229,7 +5789,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "27ad65bf-7b92-4b72-8dab-1038ba0cba93"
+              "request_id": "39b2ab00-349b-47c3-b06c-8a9b98cc94cd"
             }
           },
           {
@@ -4320,7 +5880,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "b1696649-7a89-429d-8960-5461f397d662"
+              "request_id": "ec9832fd-fe89-4059-86c1-ea6d963e2713"
             }
           }
         ],
@@ -4333,7 +5893,7 @@
             "block_id": "2093ac57-9dc4-802d-bc17-c296555e055d"
           },
           "created_time": "2025-06-05T23:30:00.000Z",
-          "last_edited_time": "2025-06-07T05:03:00.000Z",
+          "last_edited_time": "2025-06-30T05:06:00.000Z",
           "created_by": {
             "object": "user",
             "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
@@ -4351,7 +5911,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "Prompt Modifiers ",
+                  "content": "Prompt Modifiers",
                   "link": null
                 },
                 "annotations": {
@@ -4362,39 +5922,22 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "Prompt Modifiers ",
-                "href": null
-              },
-              {
-                "type": "text",
-                "text": {
-                  "content": "(NEW)",
-                  "link": null
-                },
-                "annotations": {
-                  "bold": false,
-                  "italic": false,
-                  "strikethrough": false,
-                  "underline": false,
-                  "code": false,
-                  "color": "purple"
-                },
-                "plain_text": "(NEW)",
+                "plain_text": "Prompt Modifiers",
                 "href": null
               }
             ],
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "ab694667-eb52-4909-aa57-177c40665fe8"
+          "request_id": "77e9ab43-ffa9-45b1-b731-16b7c8a01ca6"
         }
       },
       {
-        "raw": "Bonus Tokens (NEW)",
-        "html": "<span class=\"color-default\">Bonus Tokens </span><span class=\"color-purple\">(NEW)</span>",
+        "raw": "Bonus Tokens",
+        "html": "<span class=\"color-default\">Bonus Tokens</span>",
         "is_toggleable": true,
         "has_equation": false,
-        "readable_id": "bonus-tokens-(new)",
+        "readable_id": "bonus-tokens",
         "id": "2093ac57-9dc4-80a0-9ba8-cd2580974595",
         "drop_down": true,
         "children": [
@@ -4467,7 +6010,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "f927a6e4-764a-4c34-8436-e1c3a7b5eaa9"
+              "request_id": "510d8faf-ab80-4fe9-bfa9-abcfaf6701ad"
             }
           },
           {
@@ -4584,7 +6127,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "8709056f-c495-47e1-ad13-686dfc86982a"
+                  "request_id": "3595729c-64b8-4cfa-a55e-fdaaddffb760"
                 }
               },
               {
@@ -4673,7 +6216,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "4d79464e-8ff4-4323-853b-cf36476261a5"
+                  "request_id": "258e3d24-5ba2-443f-9f05-f81efcce5474"
                 }
               },
               {
@@ -4798,7 +6341,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "563a5e19-9506-47d3-842a-be035d543097"
+                  "request_id": "aba80c53-04ee-43b2-a00a-7ad23654680d"
                 }
               },
               {
@@ -4906,7 +6449,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "252d5187-8260-433b-b2e1-749c0e6a5545"
+                  "request_id": "e53905f2-1f5e-44a6-b6c4-d0f6064b5409"
                 }
               }
             ],
@@ -4955,7 +6498,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "d8dbacf0-e6d4-445b-bb60-336c714ac756"
+              "request_id": "386ff29c-01c0-490b-ba2c-cd68f7b51c35"
             }
           }
         ],
@@ -4968,7 +6511,7 @@
             "block_id": "2093ac57-9dc4-802d-bc17-c296555e055d"
           },
           "created_time": "2025-06-05T22:40:00.000Z",
-          "last_edited_time": "2025-06-07T04:54:00.000Z",
+          "last_edited_time": "2025-06-30T05:06:00.000Z",
           "created_by": {
             "object": "user",
             "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
@@ -4986,7 +6529,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "Bonus Tokens ",
+                  "content": "Bonus Tokens",
                   "link": null
                 },
                 "annotations": {
@@ -4997,31 +6540,14 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "Bonus Tokens ",
-                "href": null
-              },
-              {
-                "type": "text",
-                "text": {
-                  "content": "(NEW)",
-                  "link": null
-                },
-                "annotations": {
-                  "bold": false,
-                  "italic": false,
-                  "strikethrough": false,
-                  "underline": false,
-                  "code": false,
-                  "color": "purple"
-                },
-                "plain_text": "(NEW)",
+                "plain_text": "Bonus Tokens",
                 "href": null
               }
             ],
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "d0095882-3213-441b-bce6-4fef51ea57be"
+          "request_id": "c87779f0-d58c-40e1-aa84-df3e79a49719"
         }
       },
       {
@@ -5102,7 +6628,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "b9ffc3fb-d758-4176-b175-e6c53a231265"
+              "request_id": "080c8fdb-4d09-421d-acc0-1feb9915eaa5"
             }
           },
           {
@@ -5208,7 +6734,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "57a6f6fc-a5c2-458d-99ca-0acc375d92fc"
+              "request_id": "1472e0a3-6fa7-4a12-b26d-7930ad14b3d5"
             }
           },
           {
@@ -5299,7 +6825,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "f08672ed-76f3-4a75-8724-968a86cc69a2"
+              "request_id": "9838104e-732b-4ad9-8df0-4eadeeaa6c85"
             }
           },
           {
@@ -5354,7 +6880,64 @@
                 ],
                 "color": "default"
               },
-              "request_id": "82117ad4-54c3-4a9b-92ae-087c39906644"
+              "request_id": "194469ca-5b2d-4b3e-9cfd-33f0b6116440"
+            }
+          },
+          {
+            "raw": "For more information about how to do collabs using the website, see ‘Collabs & Battles’ in the website section",
+            "html": "<a class=\"inline-jump\" href=/?scrollTo=2223ac579dc4807b9f27c377a4f85e01><span class=\"italic color-default\">For more information about how to do collabs using the website, see ‘Collabs & Battles’ in the website section</span></a>",
+            "is_toggleable": false,
+            "has_equation": false,
+            "id": "2223ac57-9dc4-8067-8669-cba48a5c5502",
+            "drop_down": false,
+            "children": [],
+            "type": "paragraph",
+            "_block": {
+              "object": "block",
+              "id": "2223ac57-9dc4-8067-8669-cba48a5c5502",
+              "parent": {
+                "type": "block_id",
+                "block_id": "2093ac57-9dc4-80dd-91cb-f9b08492c53b"
+              },
+              "created_time": "2025-06-30T05:16:00.000Z",
+              "last_edited_time": "2025-06-30T05:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "For more information about how to do collabs using the website, see ‘Collabs & Battles’ in the website section",
+                      "link": {
+                        "url": "/2093ac579dc48018b4e3ff8426750f73#2223ac579dc4807b9f27c377a4f85e01"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": true,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "For more information about how to do collabs using the website, see ‘Collabs & Battles’ in the website section",
+                    "href": "/2093ac579dc48018b4e3ff8426750f73#2223ac579dc4807b9f27c377a4f85e01"
+                  }
+                ],
+                "color": "default"
+              },
+              "request_id": "3bd7622e-654a-4a9b-9633-b323debfd88e"
             }
           }
         ],
@@ -5367,7 +6950,7 @@
             "block_id": "2093ac57-9dc4-802d-bc17-c296555e055d"
           },
           "created_time": "2025-06-05T22:40:00.000Z",
-          "last_edited_time": "2025-06-07T06:07:00.000Z",
+          "last_edited_time": "2025-06-30T05:16:00.000Z",
           "created_by": {
             "object": "user",
             "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
@@ -5403,7 +6986,7 @@
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "c3aa2c4f-cc0d-46fa-b426-74907786617e"
+          "request_id": "8f9532ea-b9a1-4278-8442-e0b947988829"
         }
       },
       {
@@ -5484,7 +7067,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "14e8a4f9-bb70-4c04-99e0-655a2059d49e"
+              "request_id": "ede8659b-29ac-43e1-8a5b-3e32fd89abe9"
             }
           },
           {
@@ -5575,7 +7158,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "054c4d49-fec4-43ad-93f3-54c0653bbf9a"
+              "request_id": "d323d28f-6e02-4596-b3e8-649bda9a2dab"
             }
           },
           {
@@ -5700,7 +7283,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "3aaa65ec-f453-468f-b236-0ba162a928f5"
+              "request_id": "e7e23c60-62f3-47b5-b2f2-d1a7f57fc9ff"
             }
           },
           {
@@ -5791,7 +7374,7 @@
                 ],
                 "color": "default"
               },
-              "request_id": "ab75d675-4c50-4c07-8d42-72587db77118"
+              "request_id": "2d4d60c4-2ac6-485e-bef3-765653f87ea4"
             }
           },
           {
@@ -5882,7 +7465,64 @@
                 ],
                 "color": "default"
               },
-              "request_id": "f418014f-fe0b-41b0-a247-420598a6c2db"
+              "request_id": "c8d3fde4-b0ad-4a48-96b7-fceaf2f20db2"
+            }
+          },
+          {
+            "raw": "For more information about how to do battles using the website, see ‘Collabs & Battles’ in the website section",
+            "html": "<a class=\"inline-jump\" href=/?scrollTo=2223ac579dc4807b9f27c377a4f85e01><span class=\"italic color-default\">For more information about how to do battles using the website, see ‘Collabs & Battles’ in the website section</span></a>",
+            "is_toggleable": false,
+            "has_equation": false,
+            "id": "2223ac57-9dc4-8023-875c-f83fb0644bbb",
+            "drop_down": false,
+            "children": [],
+            "type": "paragraph",
+            "_block": {
+              "object": "block",
+              "id": "2223ac57-9dc4-8023-875c-f83fb0644bbb",
+              "parent": {
+                "type": "block_id",
+                "block_id": "2093ac57-9dc4-806c-b47a-c14803159840"
+              },
+              "created_time": "2025-06-30T05:16:00.000Z",
+              "last_edited_time": "2025-06-30T05:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "For more information about how to do battles using the website, see ‘Collabs & Battles’ in the website section",
+                      "link": {
+                        "url": "/2093ac579dc48018b4e3ff8426750f73#2223ac579dc4807b9f27c377a4f85e01"
+                      }
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": true,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "For more information about how to do battles using the website, see ‘Collabs & Battles’ in the website section",
+                    "href": "/2093ac579dc48018b4e3ff8426750f73#2223ac579dc4807b9f27c377a4f85e01"
+                  }
+                ],
+                "color": "default"
+              },
+              "request_id": "cbd6d4f6-7422-4dbb-919e-9f95c6e2c3c3"
             }
           }
         ],
@@ -5895,7 +7535,7 @@
             "block_id": "2093ac57-9dc4-802d-bc17-c296555e055d"
           },
           "created_time": "2025-06-05T23:29:00.000Z",
-          "last_edited_time": "2025-06-08T17:27:00.000Z",
+          "last_edited_time": "2025-06-30T05:16:00.000Z",
           "created_by": {
             "object": "user",
             "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
@@ -5931,7 +7571,7 @@
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "f16f36f0-6654-4964-b3a6-06d285d2a7fb"
+          "request_id": "7ea96b58-9142-4a15-aa36-6d47db060644"
         }
       }
     ],
@@ -5980,178 +7620,7 @@
         "is_toggleable": true,
         "color": "default"
       },
-      "request_id": "756d2c42-7d9e-47a4-bde5-0a8d8502c8ad"
-    }
-  },
-  {
-    "raw": "Website",
-    "html": "<span class=\"color-default\">Website</span>",
-    "is_toggleable": true,
-    "has_equation": false,
-    "readable_id": "website",
-    "id": "20c3ac57-9dc4-804e-9838-ca7180879851",
-    "drop_down": true,
-    "children": [
-      {
-        "raw": "…",
-        "html": "<span class=\"color-default\">…</span>",
-        "is_toggleable": true,
-        "has_equation": false,
-        "readable_id": "…",
-        "id": "20c3ac57-9dc4-8071-b53c-d0b6fe5bbcd9",
-        "drop_down": true,
-        "children": [
-          {
-            "raw": "Nothing here yet, check back when the tournament begins…",
-            "html": "<span class=\"italic color-gray\">Nothing here yet, check back when the tournament begins…</span>",
-            "is_toggleable": false,
-            "has_equation": false,
-            "id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4",
-            "drop_down": false,
-            "children": [],
-            "type": "paragraph",
-            "_block": {
-              "object": "block",
-              "id": "20c3ac57-9dc4-8079-9151-c6cc88e816e4",
-              "parent": {
-                "type": "block_id",
-                "block_id": "20c3ac57-9dc4-8071-b53c-d0b6fe5bbcd9"
-              },
-              "created_time": "2025-06-08T17:41:00.000Z",
-              "last_edited_time": "2025-06-08T19:26:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
-              },
-              "has_children": false,
-              "archived": false,
-              "in_trash": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "Nothing here yet, check back when the tournament begins…",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": true,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "gray"
-                    },
-                    "plain_text": "Nothing here yet, check back when the tournament begins…",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              },
-              "request_id": "c470021e-eb75-4b25-921f-4aea89d45a15"
-            }
-          }
-        ],
-        "type": "heading_2",
-        "_block": {
-          "object": "block",
-          "id": "20c3ac57-9dc4-8071-b53c-d0b6fe5bbcd9",
-          "parent": {
-            "type": "block_id",
-            "block_id": "20c3ac57-9dc4-804e-9838-ca7180879851"
-          },
-          "created_time": "2025-06-08T19:26:00.000Z",
-          "last_edited_time": "2025-06-08T19:26:00.000Z",
-          "created_by": {
-            "object": "user",
-            "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
-          },
-          "last_edited_by": {
-            "object": "user",
-            "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
-          },
-          "has_children": true,
-          "archived": false,
-          "in_trash": false,
-          "type": "heading_2",
-          "heading_2": {
-            "rich_text": [
-              {
-                "type": "text",
-                "text": {
-                  "content": "…",
-                  "link": null
-                },
-                "annotations": {
-                  "bold": false,
-                  "italic": false,
-                  "strikethrough": false,
-                  "underline": false,
-                  "code": false,
-                  "color": "default"
-                },
-                "plain_text": "…",
-                "href": null
-              }
-            ],
-            "is_toggleable": true,
-            "color": "default"
-          },
-          "request_id": "79238d0d-1fca-45f8-bcce-ad992f8bac7c"
-        }
-      }
-    ],
-    "type": "heading_1",
-    "_block": {
-      "object": "block",
-      "id": "20c3ac57-9dc4-804e-9838-ca7180879851",
-      "parent": {
-        "type": "page_id",
-        "page_id": "2093ac57-9dc4-8018-b4e3-ff8426750f73"
-      },
-      "created_time": "2025-06-08T17:40:00.000Z",
-      "last_edited_time": "2025-06-08T19:26:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e2ba08dd-3731-454e-b578-abdf1c89a141"
-      },
-      "has_children": true,
-      "archived": false,
-      "in_trash": false,
-      "type": "heading_1",
-      "heading_1": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "Website",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "Website",
-            "href": null
-          }
-        ],
-        "is_toggleable": true,
-        "color": "default"
-      },
-      "request_id": "a686c3dc-40b1-47a7-b6d3-df2b31a7164d"
+      "request_id": "4fba3344-1322-46aa-8c99-24ac81562151"
     }
   },
   {
@@ -6250,7 +7719,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "13826f7d-467f-4265-8d99-579aba346471"
+                  "request_id": "216a0e85-6ca1-4fbb-aa03-edfe8bbbb007"
                 }
               },
               {
@@ -6339,12 +7808,12 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "dad0dd72-234b-4a10-9de9-84c090e67cb2"
+                  "request_id": "b1f666f2-ed80-4ea7-b28c-d9a09344a538"
                 }
               },
               {
                 "raw": "Website: planet-bluto.net",
-                "html": "<span class=\"bold color-default\">Website:</span><span class=\"color-default\"> </span><a  href=http://planet-bluto.net/><span class=\"color-default\">planet-bluto.net</span></a>",
+                "html": "<span class=\"bold color-default\">Website:</span><span class=\"color-default\"> </span><a target=\"_blank\" href=http://planet-bluto.net/><span class=\"color-default\">planet-bluto.net</span></a>",
                 "is_toggleable": false,
                 "has_equation": false,
                 "id": "20c3ac57-9dc4-8046-b0fc-df33b77c480d",
@@ -6430,7 +7899,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "66f3007e-f298-4c8e-af35-aae95fd60bae"
+                  "request_id": "dcef1162-eba6-4a25-aafe-31f72cc3f75f"
                 }
               }
             ],
@@ -6479,7 +7948,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "df9fe9b7-ebd6-4657-80af-66eb651447eb"
+              "request_id": "1210f71f-0197-463e-9916-6f5199cc6529"
             }
           },
           {
@@ -6543,7 +8012,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "62395e93-bd03-4ffa-bbd0-7a677fdcdaa2"
+                  "request_id": "b1398509-a735-4438-8d39-b5520a4c0f1c"
                 }
               },
               {
@@ -6649,7 +8118,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "d6821389-c816-42b1-a63d-3f95f0afd839"
+                  "request_id": "f066c1ca-fa33-4dcc-b8e8-ac2ce7dfb6d7"
                 }
               }
             ],
@@ -6698,7 +8167,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "a3b2ea28-f232-4330-b853-b6b46b771cba"
+              "request_id": "7e9cbfaf-4711-40fd-867f-960b8f212fd1"
             }
           },
           {
@@ -6762,7 +8231,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "1a66d283-98f6-410a-a10e-d5d1bab53009"
+                  "request_id": "5634566f-b543-46aa-a429-ab1fe647e4d0"
                 }
               },
               {
@@ -6868,7 +8337,7 @@
                     ],
                     "color": "default"
                   },
-                  "request_id": "d4e988d9-ccd8-4fe1-ac63-e7dc8235cb61"
+                  "request_id": "13dab6e9-c870-44cf-b2b8-2f497fdc3405"
                 }
               }
             ],
@@ -6934,7 +8403,7 @@
                 "is_toggleable": true,
                 "color": "default"
               },
-              "request_id": "1053d532-46cd-4470-a3bb-efcee65be095"
+              "request_id": "eed9eefe-01ec-49de-a0a5-125395713dc3"
             }
           }
         ],
@@ -6983,7 +8452,7 @@
             "is_toggleable": true,
             "color": "default"
           },
-          "request_id": "7283e3b2-f379-4dc5-9eb8-47160c436840"
+          "request_id": "6f140925-cadd-4add-b546-0bdcbb80714f"
         }
       }
     ],
@@ -7032,7 +8501,7 @@
         "is_toggleable": true,
         "color": "default"
       },
-      "request_id": "197813a2-8f10-4e11-9706-505ce19f5b96"
+      "request_id": "9fe72c4c-96ea-43f4-87b9-635c385f2e66"
     }
   }
 ]

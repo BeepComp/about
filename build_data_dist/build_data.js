@@ -78,7 +78,7 @@ function parseAnnotations(entry) {
         if (entry.href.startsWith("/")) {
             href = "/?scrollTo=" + href.split("#")[1];
         }
-        html = `<a ${entry.href.startsWith("/") ? `class="inline-jump"` : ''} href=${href}>${html}</a>`;
+        html = `<a${entry.href.startsWith("/") ? ` class="inline-jump"` : ' target="_blank"'} href=${href}>${html}</a>`;
     }
     return { raw, html, has_equation: (entry.type == "equation") };
 }

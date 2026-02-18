@@ -118,6 +118,13 @@ h3 { opacity: 0.9; font-size: 32px; }
   color: #FFFF25;
 }
 
+img.emoji {
+   height: 1em;
+   width: 1em;
+   margin: 0 .05em 0 .1em;
+   vertical-align: -0.1em;
+}
+
 * {
   scroll-behavior: smooth;
   scrollbar-color: #242424 #00000000;

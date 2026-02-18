@@ -20,8 +20,8 @@ function linkClick(e: Event) {
 
 <template>
 <component :is="block.type" :id="block.id" :readable_id="block.readable_id" class="block">
-  <a v-if="block.drop_down" :href="`/?scrollTo=${block.readable_id}`" @click="linkClick" class="scroll-to-link">🔗 </a>
-  <span v-html="block.html" v-if="hasSlot"></span>
+  <a v-if="block.drop_down" :href="`/?scrollTo=${block.readable_id}`" @click="linkClick" class="scroll-to-link" v-twemoji>🔗 </a>
+  <span v-html="block.html" v-if="hasSlot" v-twemoji></span>
   <div class="sub-content">
     <BlockRenderer v-for="sub_block in block.children" :block="sub_block"></BlockRenderer>
   </div>

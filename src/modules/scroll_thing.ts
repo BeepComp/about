@@ -18,7 +18,7 @@ export function scrollToThing(block_id: string) {
     window.history.replaceState( {} , (thing.getAttribute("readable_id") || ""), "/?scrollTo="+ (thing.getAttribute("readable_id") || "") )
   }
 
-  thing?.scrollIntoView({behavior: "smooth"});
+  thing?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' });
   
   (thing as HTMLElement).style.setProperty("animation", "400ms ease-in-out 0s 5 alternate both running flash")
   // console.log((thing as HTMLElement).style)

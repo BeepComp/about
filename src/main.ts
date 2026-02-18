@@ -11,10 +11,13 @@ import paragraph_equationComp from "./block-components/paragraph_equation.vue"
 import heading_1Comp from "./block-components/heading_1.vue"
 
 import VueMobileDetection from "vue-mobile-detection";
+import twemojiDirective from './directives/twemoji';
 import VueLatex from 'vatex'
 
 const app = createApp(App)
 app.use(VueMobileDetection);
+
+app.directive('twemoji', twemojiDirective);
 
 app.component("paragraph", paragraphComp)
 app.component("bulleted_list_item", bulleted_list_itemComp)
